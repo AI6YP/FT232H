@@ -1,0 +1,23 @@
+{
+  "name": "ft232h",
+  "version": "1.0.0",
+  "description": "JS tools to control FT232H",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/FT232H.git"
+  },
+  "author": "drom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drom/FT232H/issues"
+  },
+  "homepage": "https://github.com/drom/FT232H#readme",
+  "dependencies": {
+    "ftdi": "^1.2.1",
+    "usb": "^1.2.0"
+  }
+}
